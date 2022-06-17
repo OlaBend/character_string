@@ -18,8 +18,7 @@ Project is created with Java.
 To run this project you need integrated development environment (IDE) like InteliJ or use browser based IDE replit.
 
 ## Preview
-![Example screenshot](![Zrzut ekranu 2022-06-17 172928](https://user-images.githubusercontent.com/100943377/174329907-411eccb1-c8eb-490a-8c15-85e68d95fa63.png)
-)
+![Zrzut ekranu 2022-06-17 172928](https://user-images.githubusercontent.com/100943377/174329907-411eccb1-c8eb-490a-8c15-85e68d95fa63.png)
 
 
 
