@@ -4,7 +4,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Preview](#preview)
 
 ## General Information
